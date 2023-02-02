@@ -1,0 +1,115 @@
+
+{ "Client_Info": [
+
+    {"Client Nationality": "Brazilian",
+     "Holiday Type": "family immersions",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "1 month",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "Mauritian",
+     "Holiday Type": "School Groups",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "2 weeks",
+     "Adults Number": "0",
+     "Kids Number": "18"
+    
+     },
+    
+    {"Client Nationality": "American",
+     "Holiday Type": "60+ Group",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "3 weeks",
+     "Adults Number": "15",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "American",
+     "Holiday Type": "Summer School",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "3 months",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "Portuguese",
+     "Holiday Type": "Christmas course",
+     "Contract Signed : True Or False ": "false",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "2 weeks",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "Czech",
+     "Holiday Type": "Winter School",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "2 weeks",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "Chineese",
+     "Holiday Type": "Spring Cohort Group Learning",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "3 weeks",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "American",
+     "Holiday Type": "Personal studies",
+     "Contract Signed : True Or False ": "false",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "2 months",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "American",
+     "Holiday Type": "Personal studies",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "3 months",
+     "Adults Number": "1",
+     "Kids Number": "0"
+    
+     },
+    
+    {"Client Nationality": "Italian",
+     "Holiday Type": "School Groups",
+     "Contract Signed : True Or False ": "true",
+     "Destination City": "",
+     "Offer Name": "",
+     "Package Duration": "2 months",
+     "Adults Number": "0",
+     "Kids Number": "1"
+    
+     }
+    
+    ] }
+    

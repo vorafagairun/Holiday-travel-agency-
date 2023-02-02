@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="aa.xsl"?>
+<Language_Holiday_Agency_Data>
+	<Client_Info>
+		<Personal_Info>
+				<First_Name>Pumba</First_Name>
+				<Last_Name>Wakanda</Last_Name>
+				<Nationality>Brazilian</Nationality>
+                <Age>27</Age>
+				<Gender>Male</Gender>
+				<Country>Brazil</Country>
+				<City>Rio De Janeiro</City>
+				<Address>19 road of Art</Address>
+				<Email>Pumba.wak@gmail.com</Email>
+				<Phone_Number>56874235</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>family immersions</Type>
+				<Number_Of_Adults>1</Number_Of_Adults>
+				<Number_Of_Children>0</Number_Of_Children>
+                <Package_Duration>1 month</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>Signed</Contract>
+                <Promo_Code>FI519</Promo_Code>
+                <Card_Number>87956321489</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>79</Entry_Test_Score>
+				<Type>TOEFL</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Joe</Teacher_Name>
+				<Learning_Type>Offline</Learning_Type>
+				<Language>English</Language>
+				<Level>Advanced</Level>
+                <Support_Tools>
+                    <Books>No</Books>
+                    <Moodle_Access>Yes</Moodle_Access>
+                    <Support_Sessions>No</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>No</Offer_Name>
+                    <Guarantor_ID>No</Guarantor_ID>
+                    <Guarantor_Phone>No</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>No</Offer_Name>
+                    <Services>
+                        <Assistance>No</Assistance>
+                        <Equipement>No</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>Hotel California</Name>
+                <Address>Highway 19</Address>
+                <Type>Hotel</Type>
+                <Number_Of_Rooms>1</Number_Of_Rooms>
+                <Room_Type>Single</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>FUH7534</Ticked_ID>
+                <Transport_Type>Plane</Transport_Type>
+                <Departure_City>Rio de Janeiro</Departure_City>
+                <Destination_City>California</Destination_City>
+                <Departure_Date>26/07/1995</Departure_Date>
+                <Return_Date>26/08/1995</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+    <Client_Info>
+		<Personal_Info>
+				<First_Name>Nema</First_Name>
+				<Last_Name>Fisha</Last_Name>
+				<Nationality>Mauritian</Nationality>
+                <Age>12</Age>
+				<Gender>Female</Gender>
+				<Country>Maurice</Country>
+				<City>Port Louis</City>
+				<Address>Rue des Carndines</Address>
+				<Email>nema.fisha@gmail.com</Email>
+				<Phone_Number>+88 789546215</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>School Groups</Type>
+				<Number_Of_Adults>0</Number_Of_Adults>
+				<Number_Of_Children>18</Number_Of_Children>
+                <Package_Duration>2 weeks</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>Signed</Contract>
+                <Promo_Code>No</Promo_Code>
+                <Card_Number>4756423589</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>40</Entry_Test_Score>
+				<Type>DELF</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Clémence</Teacher_Name>
+				<Learning_Type>Offline</Learning_Type>
+				<Language>French</Language>
+				<Level>Intermediate</Level>
+                <Support_Tools>
+                    <Books>Yes</Books>
+                    <Moodle_Access>No</Moodle_Access>
+                    <Support_Sessions>Yes</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>Devient Francais</Offer_Name>
+                    <Guarantor_ID>78954632</Guarantor_ID>
+                    <Guarantor_Phone>+25 789513645</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>No</Offer_Name>
+                    <Services>
+                        <Assistance>No</Assistance>
+                        <Equipement>No</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>Paris Campus</Name>
+                <Address>5 rue des collegiale</Address>
+                <Type>University Residence</Type>
+                <Number_Of_Rooms>6</Number_Of_Rooms>
+                <Room_Type>3</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>MRC8956</Ticked_ID>
+                <Transport_Type>Plane</Transport_Type>
+                <Departure_City>Porto</Departure_City>
+                <Destination_City>Paris</Destination_City>
+                <Departure_Date>16/01/2018</Departure_Date>
+                <Return_Date>30/01/2018</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+    <Client_Info>
+		<Personal_Info>
+				<First_Name>Stan</First_Name>
+				<Last_Name>Lee</Last_Name>
+				<Nationality>American</Nationality>
+                <Age>70</Age>
+				<Gender>Male</Gender>
+				<Country>USA</Country>
+				<City>New York</City>
+				<Address>Central Ave, 15</Address>
+				<Email>Stanmarveldirector@gmail.com</Email>
+				<Phone_Number>+01 7896516545</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>60+ Group</Type>
+				<Number_Of_Adults>15</Number_Of_Adults>
+				<Number_Of_Children>0</Number_Of_Children>
+                <Package_Duration>3 weeks</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>Signed</Contract>
+                <Promo_Code>Oldy6589</Promo_Code>
+                <Card_Number>44445555888899</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>30</Entry_Test_Score>
+				<Type>HSK</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Fao MinLin</Teacher_Name>
+				<Learning_Type>Offline</Learning_Type>
+				<Language>Chineese</Language>
+				<Level>Beginner</Level>
+                <Support_Tools>
+                    <Books>Yes</Books>
+                    <Moodle_Access>Yes</Moodle_Access>
+                    <Support_Sessions>Yes</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>No</Offer_Name>
+                    <Guarantor_ID>No</Guarantor_ID>
+                    <Guarantor_Phone>No</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>HardChin</Offer_Name>
+                    <Services>
+                        <Assistance>Yes</Assistance>
+                        <Equipement>Yes</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>Japan</Name>
+                <Address>30 road of Japan</Address>
+                <Type>House</Type>
+                <Number_Of_Rooms>5</Number_Of_Rooms>
+                <Room_Type>3</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>JAP1549</Ticked_ID>
+                <Transport_Type>Cruise Ship</Transport_Type>
+                <Departure_City>NYC</Departure_City>
+                <Destination_City>Tokio</Destination_City>
+                <Departure_Date>03/07/2022</Departure_Date>
+                <Return_Date>24/07/2022</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+    <Client_Info>
+		<Personal_Info>
+				<First_Name>Jeane</First_Name>
+				<Last_Name>Smith</Last_Name>
+				<Nationality>American</Nationality>
+                <Age>28</Age>
+				<Gender>Female</Gender>
+				<Country>USA</Country>
+				<City>Atlanta</City>
+				<Address>240 PEACHTREE ST NW STE 13E1 ATLANTA GA</Address>
+				<Email>claudia2003@hotmail.com</Email>
+				<Phone_Number>6549684156</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>Summer School</Type>
+				<Number_Of_Adults>1</Number_Of_Adults>
+				<Number_Of_Children>0</Number_Of_Children>
+                <Package_Duration>3 months</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>Signed</Contract>
+                <Promo_Code>DR0789</Promo_Code>
+                <Card_Number>648646158</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>63</Entry_Test_Score>
+				<Type>Test d'Évaluation de Français (TEF)</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Romain</Teacher_Name>
+				<Learning_Type>Online</Learning_Type>
+				<Language>French</Language>
+				<Level>Advanced</Level>
+                <Support_Tools>
+                    <Books>Yes</Books>
+                    <Moodle_Access>Yes</Moodle_Access>
+                    <Support_Sessions>No</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>No</Offer_Name>
+                    <Guarantor_ID>No</Guarantor_ID>
+                    <Guarantor_Phone>No</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>No</Offer_Name>
+                    <Services>
+                        <Assistance>No</Assistance>
+                        <Equipement>No</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>Lyon Hotel 4Star</Name>
+                <Address>45 Rue Chevreul</Address>
+                <Type>Hotel</Type>
+                <Number_Of_Rooms>2</Number_Of_Rooms>
+                <Room_Type>T2</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>YUJH7564</Ticked_ID>
+                <Transport_Type>Plane</Transport_Type>
+                <Departure_City>Atlanta</Departure_City>
+                <Destination_City>Lyon</Destination_City>
+                <Departure_Date>26/07/2020</Departure_Date>
+                <Return_Date>26/10/2020</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+    <Client_Info>
+		<Personal_Info>
+				<First_Name>Rocket</First_Name>
+				<Last_Name>Robaldu</Last_Name>
+				<Nationality>Portuguese</Nationality>
+                <Age>50</Age>
+				<Gender>Male</Gender>
+				<Country>Portugal</Country>
+				<City>Evora</City>
+				<Address>Zona Estação 61,Portugal 7150-373</Address>
+				<Email>robaldu77@hotmail.com</Email>
+				<Phone_Number>None</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>Christmas course</Type>
+				<Number_Of_Adults>1</Number_Of_Adults>
+				<Number_Of_Children>0</Number_Of_Children>
+                <Package_Duration>2 weeks</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>NotSigned</Contract>
+                <Promo_Code>No</Promo_Code>
+                <Card_Number>1234654312346548</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>23</Entry_Test_Score>
+				<Type>Diploma of Spanish as a Foreign Language (DELE)</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Mario Terrez Diaz</Teacher_Name>
+				<Learning_Type>Offline</Learning_Type>
+				<Language>Spanish</Language>
+				<Level>Upper-Intermediate</Level>
+                <Support_Tools>
+                    <Books>No</Books>
+                    <Moodle_Access>Yes</Moodle_Access>
+                    <Support_Sessions>No</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>No</Offer_Name>
+                    <Guarantor_ID>No</Guarantor_ID>
+                    <Guarantor_Phone>No</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>No</Offer_Name>
+                    <Services>
+                        <Assistance>No</Assistance>
+                        <Equipement>No</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>Madrid 5Plus</Name>
+                <Address>Calle Jose Alix, 18</Address>
+                <Type>Apartment</Type>
+                <Number_Of_Rooms>3</Number_Of_Rooms>
+                <Room_Type>Lux</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>MAD0298459</Ticked_ID>
+                <Transport_Type>Plane</Transport_Type>
+                <Departure_City>Evora</Departure_City>
+                <Destination_City>Madrid</Destination_City>
+                <Departure_Date>04/01/2022</Departure_Date>
+                <Return_Date>18/101/2022</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+    <Client_Info>
+		<Personal_Info>
+				<First_Name>Ján</First_Name>
+				<Last_Name>Mejzlík</Last_Name>
+				<Nationality>Czech</Nationality>
+                <Age>30</Age>
+				<Gender>Male</Gender>
+				<Country>Czech Republic</Country>
+				<City>Prague</City>
+				<Address>Via Belviglieri, 132</Address>
+				<Email>JanMejzlik@jourrapide.com</Email>
+				<Phone_Number>0388 0147604</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>Winter School</Type>
+				<Number_Of_Adults>1</Number_Of_Adults>
+				<Number_Of_Children>0</Number_Of_Children>
+                <Package_Duration>2 weeks</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>Signed</Contract>
+                <Promo_Code>DA1996</Promo_Code>
+                <Card_Number>645895845484</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>80</Entry_Test_Score>
+				<Type>Goethe</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Hanz Zimmon</Teacher_Name>
+				<Learning_Type>Offline</Learning_Type>
+				<Language>German</Language>
+				<Level>Advanced</Level>
+                <Support_Tools>
+                    <Books>No</Books>
+                    <Moodle_Access>No</Moodle_Access>
+                    <Support_Sessions>Yes</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>No</Offer_Name>
+                    <Guarantor_ID>No</Guarantor_ID>
+                    <Guarantor_Phone>No</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>No</Offer_Name>
+                    <Services>
+                        <Assistance>No</Assistance>
+                        <Equipement>No</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>SchollAppartments</Name>
+                <Address>Morauweg 13, 91056 Berlin, Germany</Address>
+                <Type>Apartment</Type>
+                <Number_Of_Rooms>1</Number_Of_Rooms>
+                <Room_Type>None</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>BRL_0zds59</Ticked_ID>
+                <Transport_Type>Plane</Transport_Type>
+                <Departure_City>Prague</Departure_City>
+                <Destination_City>Berlin</Destination_City>
+                <Departure_Date>06/01/2022</Departure_Date>
+                <Return_Date>20/01/2022</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+     <Client_Info>
+		<Personal_Info>
+				<First_Name>Mulan</First_Name>
+				<Last_Name>Tsou</Last_Name>
+				<Nationality>Chineese</Nationality>
+                <Age>73</Age>
+				<Gender>Feale</Gender>
+				<Country>China</Country>
+				<City>Guangzhou</City>
+				<Address>Zhong Tan Lu 99long 227hao 1003shi</Address>
+				<Email>MulanTsou@teleworm.us</Email>
+				<Phone_Number>03567886789567690</Phone_Number>
+		</Personal_Info>
+		<Booking_Info>
+			<Holiday_Type>
+				<Type>Spring Cohort Group Learning</Type>
+				<Number_Of_Adults>1</Number_Of_Adults>
+				<Number_Of_Children>0</Number_Of_Children>
+                <Package_Duration>3 weeks</Package_Duration>
+			</Holiday_Type>
+			<Payment_Info>
+				<Contract>Signed</Contract>
+                <Promo_Code>No</Promo_Code>
+                <Card_Number>32216454984566423</Card_Number>
+			</Payment_Info>
+		</Booking_Info>
+		<Holiday_Info>
+			<Certificates_Info>
+				<Entry_Test_Score>60</Entry_Test_Score>
+				<Type>IELTS</Type>
+            </Certificates_Info>
+            <Course_info>
+				<Teacher_Name>Oliver Graham</Teacher_Name>
+				<Learning_Type>Offline</Learning_Type>
+				<Language>English</Language>
+				<Level>Beginner</Level>
+                <Support_Tools>
+                    <Books>Yes</Books>
+                    <Moodle_Access>No</Moodle_Access>
+                    <Support_Sessions>Yes</Support_Sessions>
+                </Support_Tools>
+			</Course_info>
+            <Offers>
+                <Juniors>
+                    <Offer_Name>No</Offer_Name>
+                    <Guarantor_ID>No</Guarantor_ID>
+                    <Guarantor_Phone>No</Guarantor_Phone>
+                </Juniors>
+                <Old>
+                    <Offer_Name>Group 60+</Offer_Name>
+                    <Services>
+                        <Assistance>Yes</Assistance>
+                        <Equipement>Yes</Equipement>
+                    </Services>
+                </Old>
+            </Offers>
+		</Holiday_Info>
+		<Location>
+            <Accommodation>
+                <Name>EAC Residence</Name>
+                <Address>	Station Rd, Ilford, UK</Address>
+                <Type>Dormitory</Type>
+                <Number_Of_Rooms>1</Number_Of_Rooms>
+                <Room_Type>Studio</Room_Type>
+            </Accommodation>
+            <Transport>
+                <Ticked_ID>SHAN09798</Ticked_ID>
+                <Transport_Type>Plane</Transport_Type>
+                <Departure_City>Guangzhou</Departure_City>
+                <Destination_City>Ilford</Destination_City>
+                <Departure_Date>07/03/1999</Departure_Date>
+                <Return_Date>28/03/1999</Return_Date>
+            </Transport>
+        </Location>
+	</Client_Info>
+<Client_Info>
+    <Personal_Info>
+            <First_Name>Ellen</First_Name>
+            <Last_Name>Rowe</Last_Name>
+            <Nationality>American</Nationality>
+            <Age>46</Age>
+            <Gender>Female</Gender>
+            <Country>USA</Country>
+            <City>Washington</City>
+            <Address>305 Horizon Circle</Address>
+            <Email>Ellen.Rowe@gmail.com</Email>
+            <Phone_Number>3603495056</Phone_Number>
+    </Personal_Info>
+    <Booking_Info>
+        <Holiday_Type>
+            <Type>Personal studies</Type>
+            <Number_Of_Adults>1</Number_Of_Adults>
+            <Number_Of_Children>0</Number_Of_Children>
+            <Package_Duration>2 months</Package_Duration>
+        </Holiday_Type>
+        <Payment_Info>
+            <Contract>NotSigned</Contract>
+            <Promo_Code>No</Promo_Code>
+            <Card_Number>2124890071367721</Card_Number>
+        </Payment_Info>
+    </Booking_Info>
+    <Holiday_Info>
+        <Certificates_Info>
+            <Entry_Test_Score>65</Entry_Test_Score>
+            <Type>DELE</Type>
+        </Certificates_Info>
+        <Course_info>
+            <Teacher_Name>Sergio</Teacher_Name>
+            <Learning_Type>Offline</Learning_Type>
+            <Language>Spanish</Language>
+            <Level>Advanced</Level>
+            <Support_Tools>
+                <Books>Yes</Books>
+                <Moodle_Access>Yes</Moodle_Access>
+                <Support_Sessions>Yes</Support_Sessions>
+            </Support_Tools>
+        </Course_info>
+        <Offers>
+            <Juniors>
+                <Offer_Name>No</Offer_Name>
+                <Guarantor_ID>No</Guarantor_ID>
+                <Guarantor_Phone>No</Guarantor_Phone>
+            </Juniors>
+            <Old>
+                <Offer_Name>No</Offer_Name>
+                <Services>
+                    <Assistance>No</Assistance>
+                    <Equipement>No</Equipement>
+                </Services>
+            </Old>
+        </Offers>
+    </Holiday_Info>
+    <Location>
+        <Accommodation>
+            <Name>Hotel Hilton</Name>
+            <Address>Roma 4</Address>
+            <Type>Hotel</Type>
+            <Number_Of_Rooms>1</Number_Of_Rooms>
+            <Room_Type>Double room</Room_Type>
+        </Accommodation>
+        <Transport>
+            <Ticked_ID>AKS4509</Ticked_ID>
+            <Transport_Type>Plane</Transport_Type>
+            <Departure_City>Washington</Departure_City>
+            <Destination_City>Madrid</Destination_City>
+            <Departure_Date>01/07/2022</Departure_Date>
+            <Return_Date>04/09/2022</Return_Date>
+        </Transport>
+    </Location>
+</Client_Info>
+<Client_Info>
+    <Personal_Info>
+            <First_Name>Christine</First_Name>
+            <Last_Name>G. Monroe</Last_Name>
+            <Nationality>American</Nationality>
+            <Age>31</Age>
+            <Gender>Female</Gender>
+            <Country>USA</Country>
+            <City>New York</City>
+            <Address>1953 Pinewood Avenue</Address>
+            <Email>ChristineGMonroe@armyspy.com</Email>
+            <Phone_Number>9065248193</Phone_Number>
+    </Personal_Info>
+    <Booking_Info>
+        <Holiday_Type>
+            <Type>Personal studies</Type>
+            <Number_Of_Adults>1</Number_Of_Adults>
+            <Number_Of_Children>0</Number_Of_Children>
+            <Package_Duration>3 months</Package_Duration>
+        </Holiday_Type>
+        <Payment_Info>
+            <Contract>Signed</Contract>
+            <Promo_Code>No</Promo_Code>
+            <Card_Number>5371676462641181</Card_Number>
+        </Payment_Info>
+    </Booking_Info>
+    <Holiday_Info>
+        <Certificates_Info>
+            <Entry_Test_Score>46</Entry_Test_Score>
+            <Type>DALF</Type>
+        </Certificates_Info>
+        <Course_info>
+            <Teacher_Name>Louis</Teacher_Name>
+            <Learning_Type>Offline</Learning_Type>
+            <Language>French</Language>
+            <Level>Advanced</Level>
+            <Support_Tools>
+                <Books>Yes</Books>
+                <Moodle_Access>Yes</Moodle_Access>
+                <Support_Sessions>No</Support_Sessions>
+            </Support_Tools>
+        </Course_info>
+        <Offers>
+            <Juniors>
+                <Offer_Name>No</Offer_Name>
+                <Guarantor_ID>No</Guarantor_ID>
+                <Guarantor_Phone>No</Guarantor_Phone>
+            </Juniors>
+            <Old>
+                <Offer_Name>No</Offer_Name>
+                <Services>
+                    <Assistance>No</Assistance>
+                    <Equipement>No</Equipement>
+                </Services>
+            </Old>
+        </Offers>
+    </Holiday_Info>
+    <Location>
+        <Accommodation>
+            <Name>IBIS PARIS</Name>
+            <Address>2 Place De L'Europe</Address>
+            <Type>Hotel</Type>
+            <Number_Of_Rooms>1</Number_Of_Rooms>
+            <Room_Type>Single room</Room_Type>
+        </Accommodation>
+        <Transport>
+            <Ticked_ID>ETR2276</Ticked_ID>
+            <Transport_Type>Plane</Transport_Type>
+            <Departure_City>New York</Departure_City>
+            <Destination_City>Paris</Destination_City>
+            <Departure_Date>24/04/2022</Departure_Date>
+            <Return_Date>31/07/2022</Return_Date>
+        </Transport>
+    </Location>
+</Client_Info>
+<Client_Info>
+    <Personal_Info>
+            <First_Name>Mario</First_Name>
+            <Last_Name>Rossi</Last_Name>
+            <Nationality>Italian</Nationality>
+            <Age>16</Age>
+            <Gender>Male</Gender>
+            <Country>IT</Country>
+            <City>Milan</City>
+            <Address>Piazza della Libertà 15</Address>
+            <Email>mariorossi06@gmail.com</Email>
+            <Phone_Number>3487874552</Phone_Number>
+    </Personal_Info>
+    <Booking_Info>
+        <Holiday_Type>
+            <Type>School Groups</Type>
+            <Number_Of_Adults>0</Number_Of_Adults>
+            <Number_Of_Children>1</Number_Of_Children>
+            <Package_Duration>2 months</Package_Duration>
+        </Holiday_Type>
+        <Payment_Info>
+            <Contract>Signed</Contract>
+            <Promo_Code>Yes</Promo_Code>
+            <Card_Number>5301772231756940</Card_Number>
+        </Payment_Info>
+    </Booking_Info>
+    <Holiday_Info>
+        <Certificates_Info>
+            <Entry_Test_Score>36</Entry_Test_Score>
+            <Type>IELTS</Type>
+        </Certificates_Info>
+        <Course_info>
+            <Teacher_Name>Mark</Teacher_Name>
+            <Learning_Type>Offline</Learning_Type>
+            <Language>English</Language>
+            <Level>Intermediate</Level>
+            <Support_Tools>
+                <Books>No</Books>
+                <Moodle_Access>Yes</Moodle_Access>
+                <Support_Sessions>Yes</Support_Sessions>
+            </Support_Tools>
+        </Course_info>
+        <Offers>
+            <Juniors>
+                <Offer_Name>Junior School Camp</Offer_Name>
+                <Guarantor_ID>43848354</Guarantor_ID>
+                <Guarantor_Phone>+39 2288092431</Guarantor_Phone>
+            </Juniors>
+            <Old>
+                <Offer_Name>No</Offer_Name>
+                <Services>
+                    <Assistance>No</Assistance>
+                    <Equipement>No</Equipement>
+                </Services>
+            </Old>
+        </Offers>
+    </Holiday_Info>
+    <Location>
+        <Accommodation>
+            <Name>Cork</Name>
+            <Address>3374 O Conner Street</Address>
+            <Type>Accomodation</Type>
+            <Number_Of_Rooms>4</Number_Of_Rooms>
+            <Room_Type>2</Room_Type>
+        </Accommodation>
+        <Transport>
+            <Ticked_ID>YUV1009</Ticked_ID>
+            <Transport_Type>Plane</Transport_Type>
+            <Departure_City>Milan</Departure_City>
+            <Destination_City>Cork</Destination_City>
+            <Departure_Date>15/06/2024</Departure_Date>
+            <Return_Date>15/08/2024</Return_Date>
+        </Transport>
+    </Location>
+</Client_Info>
+</Language_Holiday_Agency_Data>
+ 
+
+
+   
