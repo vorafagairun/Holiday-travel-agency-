@@ -1,4 +1,4 @@
-# Holiday-travel-agency-
+# Holiday-Travel-Agency-Project
 The work represents the XML schema's modeling decisions along with the benefits and drawbacks of those decisions as they relate to the data processing. In additions to this, the work contains the XSLT transformations and the use cases they addressed to. The project involved following working environment, tools and services:
 - Visual Studio Code;
 - Free Online XSLT Test Tool: used to apply XSL transformation to the XML file and get the output in html format (https://xslttest.appspot.com/);
